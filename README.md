@@ -1,45 +1,76 @@
-<h1 align="center">Volkan</h1>
-<p align="center">AI • Cybersecurity • Backend Developer</p>
+<h1 align="center">Hi 👋, I'm Volkan</h1>
+<h3 align="center">Cyber Security Enthusiast | Backend & Automation Developer</h3>
+
+---
+
+### 🧠 About Me
+
+- 👤 Name: **Volkan**
+- 💻 Username: **vbyalcin**
+- 📍 Location: **Istanbul, Turkey**
+- 🛡️ Field: **Siber Güvenlik / Kendi ihtiyaçlarıma göre uygulama geliştiriyorum**
+- 🎯 Goal: **Siber güvenlik alanında uzmanlaşmak**
+- ⚡ Interests:
+  - Web geliştirme & backend altyapıları  
+  - Veritabanı yönetimi & mimari  
+  - Yapay zeka & otomasyon  
+  - Siber güvenlik
+
+---
+
+### 🚀 Technologies & Tools
+
+#### 🌐 Web & Backend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+#### 🧠 Programming & Automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+#### 🗄️ Database & Systems
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### 🛡️ Cyber Security Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:0f172a,100:111827&text=Volkan&fontColor=ffffff&fontSize=40" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vbyalcin&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20projects-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Language-English-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-T%C3%BCrkiye-111827?style=flat-square" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vbyalcin&theme=radical" />
 </p>
 
-## About
-
-I build clean, practical software with a focus on AI, backend systems, and cybersecurity.
-
-## Current Focus
-
-- AI-assisted applications
-- Backend architecture
-- Secure and scalable systems
-- Better code quality every day
-
-## Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,nodejs,react,nextjs,linux,mysql,git,github,vscode" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbyalcin&layout=compact&theme=radical" />
 </p>
 
-## Activity
+---
 
-- Active developer on GitHub  
-- Building and maintaining personal projects  
-- Focused on consistent improvement and clean code  
+### 📌 Projects
 
-## Status
+- 🔗 Projelerimi yakında ekliyorum...
+- 🔗 Backend ve otomasyon sistemleri üzerinde çalışıyorum...
 
-```text
-Name    : Volkan
-Username: vbyalcin
-Role    : Developer
-Focus   : AI / Cybersecurity / Backend
-Mode    : Building and learning
-Status  : Active
+---
+
+### 📫 Contact Me
+
+- 📧 Email: **volkanburakyalcin@gmail.com**
+- 📷 Instagram: **@vbyalcin**
+- 🐦 X (Twitter): **@vbyalcinn**
+- 💬 Discord: **vbyalcin**
+- 🐙 GitHub: **https://github.com/vbyalcin**
+
+---
+
+⭐ Thanks for visiting my profile!
