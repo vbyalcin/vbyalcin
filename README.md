@@ -28,11 +28,11 @@ I build clean, practical software with a focus on AI, backend systems, and cyber
   <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,nodejs,react,nextjs,linux,mysql,git,github,vscode" />
 </p>
 
-## GitHub Overview
+## Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vbyalcin&hide=issues,contribs&show_icons=false&hide_border=true&theme=default" />
-</p>
+- Active developer on GitHub  
+- Building and maintaining personal projects  
+- Focused on consistent improvement and clean code  
 
 ## Status
 
