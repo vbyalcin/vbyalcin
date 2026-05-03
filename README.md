@@ -31,8 +31,8 @@ I build clean, practical software with a focus on AI, backend systems, and cyber
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vbyalcin&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbyalcin&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vbyalcin&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=vbyalcin&theme=default&hide_border=true" />
 </p>
 
 ## Status
