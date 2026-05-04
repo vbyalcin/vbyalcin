@@ -7,8 +7,8 @@
 
 - 👤 Name: **Volkan**
 - 💻 Username: **vbyalcin**
-- 📍 Location: **Istanbul, Turkey**
-- 🛡️ Field: **Siber Güvenlik / Kendi ihtiyaçlarıma göre uygulama geliştiriyorum**
+- 📍 Location: **Kocaeli, Turkey**
+- 🛡️ Field: **Siber Güvenlik / Kendi ihtiyaçlarıma göre uygulama geliştiriyorum.**
 - 🎯 Goal: **Siber güvenlik alanında uzmanlaşmak**
 - ⚡ Interests:
   - Web geliştirme & backend altyapıları  
@@ -70,7 +70,3 @@
 - 🐦 X (Twitter): **@vbyalcinn**
 - 💬 Discord: **vbyalcin**
 - 🐙 GitHub: **https://github.com/vbyalcin**
-
----
-
-⭐ Thanks for visiting my profile!
