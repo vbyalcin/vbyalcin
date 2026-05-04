@@ -40,22 +40,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vbyalcin&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vbyalcin&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbyalcin&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 📌 Projects
 
 - 🔗 Projelerimi yakında ekliyorum...
